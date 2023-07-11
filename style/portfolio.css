@@ -1,7 +1,7 @@
-*{
+/*{
     margin: 0px;
     padding: 2px;
-}
+}*/
 /*common shar style*/
 .body{
     font-family: 'Lato', sans-serif;
@@ -45,6 +45,11 @@
 }
 .header-profile-pic{
     width: 350px;
+}
+/* Section main 1 */
+.main1{
+    text-align: center;
+    margin-top: 50px;
 }
 /* Section main 2 */
 .main0{
